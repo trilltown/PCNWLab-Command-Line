@@ -29,7 +29,7 @@ cd ~/Desktop
 rm -rf my_first_direc
 ******************/
 
-//complete //
+//complete // ..
 
 /******************
 PROBLEM 2:
