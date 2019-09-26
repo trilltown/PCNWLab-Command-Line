@@ -29,7 +29,7 @@ cd ~/Desktop
 rm -rf my_first_direc
 ******************/
 
-//complete 
+//complete //
 
 /******************
 PROBLEM 2:
@@ -37,10 +37,13 @@ PROBLEM 2:
 Follow the following steps ONLY using your command line:
 
 1. Navigate to the inside of your Documents folder
-
+cd ../Documents
 3. Create a file called foo.js
+touch foo.js
 4. Open the file with a text editor, (Atom/VSCode)
+open foo.js
 5. Add the following text to the file: console.log('hello')
+
 6. Save and exit the file
 7. Open the file again with a text editor, (Atom/VSCode)
 8. Add the following in a new line: hellohellohello
